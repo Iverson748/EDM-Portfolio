@@ -3,7 +3,7 @@
 ### EDM-Projects-Supee-
 This is my Report inedm
 ### About Me
-Hi my name is Iverson Quiambao,0 yrsold from AngelesCity
+Hi my name is Iverson Quiambao,20 yrsold from AngelesCity
 ### Education:
 - College: City College of Angeles (BSIS)
 - High School: Angeles CityNational Trade School
