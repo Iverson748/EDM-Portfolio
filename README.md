@@ -1,7 +1,7 @@
 
 
 ### EDM-Projects-Supee-
-This is my Report inedm
+This is my Report in edm
 ### About Me
 Hi my name is Iverson Quiambao,20 yrsold from AngelesCity
 ### Education:
