@@ -1,5 +1,4 @@
 
-Readme.md
 
 ### EDM-Projects-Supee-
 This is my Report
@@ -14,7 +13,7 @@ Hi my name is Iverson Quiambao,0 yrsold from AngelesCity
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
 
 
-Task1.md
+Task1
 # Midterm Lab Task 1
 This task is . Data Cleaning and Preparation using Excel
 # STEP 1. Data Cleaning Process
