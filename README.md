@@ -1,7 +1,7 @@
 
 
 ### EDM-Projects-Supee-
-This is my Report
+This is my Report inedm
 ### About Me
 Hi my name is Iverson Quiambao,0 yrsold from AngelesCity
 ### Education:
@@ -13,16 +13,4 @@ Hi my name is Iverson Quiambao,0 yrsold from AngelesCity
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
 
 
-Task1
-# Midterm Lab Task 1
-This task is . Data Cleaning and Preparation using Excel
-# STEP 1. Data Cleaning Process
-- Step One
-- Step Two
-- Step Three
-
-# Sample Output:
-![screenshot](images/one.JPG)
-# Insert Image using img tag
-<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
 
