@@ -20,4 +20,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![Image](https://github.com/user-attachments/assets/87b7b40a-48d8-48a8-9d96-1e9381aef6d8)
 ## Here's the Physical Data Model
+![Image](https://github.com/user-attachments/assets/b2cad954-3703-41b7-8c37-c99bf6755d92)
 
