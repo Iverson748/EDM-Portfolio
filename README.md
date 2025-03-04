@@ -1,7 +1,7 @@
 
 
 ### EDM-Portfolio
-This is my Report in edm
+This is my Report in edm which is the step by step process annd imagaes of the output
 ### About Me
 Hi my name is Iverson Quiambao,20 yrsold from AngelesCity
 ### Education:
