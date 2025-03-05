@@ -9,7 +9,7 @@ Hi my name is Iverson Quiambao,20 yrsold from AngelesCity, I love playing basket
 - High School: Angeles CityNational Trade School
 - Elementary: Sto Rosario Elementary School
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using excel](Midterm%20Lab%20Task%201/README.md)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using excel](Midterm%20Lab%20Task1/Readme.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20Task%201/task1.md)
 
 
