@@ -1,7 +1,7 @@
 
 
 ### EDM-Portfolio
-This is my Report in edm which is the step by step process and imagaes of the output.
+This is my Report in edm which is the step by step process and images of the output.
 ### About Me
 Hi my name is Iverson Quiambao,20 yrsold from AngelesCity, I love playing basketball, I choose BSIS because it is in demand.
 ### Education:
