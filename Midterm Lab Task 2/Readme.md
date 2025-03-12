@@ -59,7 +59,7 @@ Salary by Role Type Table
 
 Salary by Size Role Type Table
 
-![2](https://github.com/user-attachments/assets/a09a16f2-45c8-4fb5-98ae-1af872d550fe)
+
 
 Salary by State Table
 
@@ -67,7 +67,8 @@ Salary by State Table
 
 States Mapping Table
 
-![1000018457](https://github.com/user-attachments/assets/261fb8b5-bc28-49a8-bf2f-fd5d49630c72)
+![1000018456 (2)](https://github.com/user-attachments/assets/5a68f6ee-1dac-4c34-bed4-ae12736d6417)
+
 
 
 
