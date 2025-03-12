@@ -15,24 +15,24 @@ Remove unnecessary columns to avoid redundancy (Company Name ratings, extra desc
 Save the M Language to a notepad.
 
 Before Cleaning
-Uncleaned Image 1
+Uncleaned Photo 1
 
 ![Image](https://github.com/user-attachments/assets/5efe1018-2ce7-4e40-8c9a-0dde85dddc59)
- Uncleaned Image 2
+ Uncleaned Photo 2
  
 ![Image](https://github.com/user-attachments/assets/e1ebc394-b25a-46be-bf46-ccad1cd37afa)
 
-Uncleaed Image 3
+Uncleaed Photo 3
 
 ![unc3](https://github.com/user-attachments/assets/15f3aa79-e7ab-4f60-81c3-40bb8d8cc0d5)
 
 ## After Cleaning
 
-Cleaned Image1
+Cleaned Photo  1
 
 ![clean](https://github.com/user-attachments/assets/e8aff98e-d8ff-4ec7-93cc-ffc5c5913258)
 
-Cleaned Image 2
+Cleaned Photo 2
 
 ![clean 2](https://github.com/user-attachments/assets/7f7b4109-cc5f-4269-82cf-ea8be9fe307a)
 
@@ -59,7 +59,7 @@ Salary by Role Type Table
 
 Salary by Size Role Type Table
 
-
+![last](https://github.com/user-attachments/assets/1c17956d-8aab-4d35-9e91-51cfbac03b2b)
 
 Salary by State Table
 
@@ -68,6 +68,15 @@ Salary by State Table
 States Mapping Table
 
 ![1000018456 (2)](https://github.com/user-attachments/assets/5a68f6ee-1dac-4c34-bed4-ae12736d6417)
+
+## Step 3 - Query Dependencies
+After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
+Double check whether they are properly linked appropriately.
+
+Photo of Query Dependencies
+
+![Depencies](https://github.com/user-attachments/assets/391710de-ce59-41f1-a75a-eb701b0c6d76)
+
 
 
 
