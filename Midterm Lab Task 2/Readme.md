@@ -18,4 +18,6 @@ Before Cleaning
 Uncleaned Image 1
 
 ![Image](https://github.com/user-attachments/assets/5efe1018-2ce7-4e40-8c9a-0dde85dddc59)
-
+ Uncleaned Image 2
+ 
+![Image](https://github.com/user-attachments/assets/e1ebc394-b25a-46be-bf46-ccad1cd37afa)
