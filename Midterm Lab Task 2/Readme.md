@@ -57,7 +57,9 @@ Check and review Query Dependencies.
 Salary by Role Type Table
 ![1000018454](https://github.com/user-attachments/assets/4a9d54c0-1214-405e-9830-ddd551df36bc)
 
+Salary by Size Role Type Table
 
+![2](https://github.com/user-attachments/assets/a09a16f2-45c8-4fb5-98ae-1af872d550fe)
 
 
 
