@@ -54,10 +54,11 @@ Rename merged column to State Full Name and remove nulls.
 Check and review Query Dependencies.
 
 ## Grouped of Tables
-Salary by Role Type Table
-![1000018454](https://github.com/user-attachments/assets/4a9d54c0-1214-405e-9830-ddd551df36bc)
-
 Salary by Size Role Type Table
+
+![size](https://github.com/user-attachments/assets/a4952169-1d3a-41cf-a087-d915bda4e9d2)
+
+Salary by Role Type Table
 
 ![last](https://github.com/user-attachments/assets/1c17956d-8aab-4d35-9e91-51cfbac03b2b)
 
