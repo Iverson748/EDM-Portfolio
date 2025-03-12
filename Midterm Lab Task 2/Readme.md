@@ -75,7 +75,8 @@ Double check whether they are properly linked appropriately.
 
 Photo of Query Dependencies
 
-![Depencies](https://github.com/user-attachments/assets/391710de-ce59-41f1-a75a-eb701b0c6d76)
+![str](https://github.com/user-attachments/assets/d579ebf0-3e79-4a40-a94b-29fbb5cde680)
+
 
 
 
