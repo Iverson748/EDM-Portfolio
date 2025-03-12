@@ -21,3 +21,8 @@ Uncleaned Image 1
  Uncleaned Image 2
  
 ![Image](https://github.com/user-attachments/assets/e1ebc394-b25a-46be-bf46-ccad1cd37afa)
+
+Unncleaed Image 3
+
+![unc3](https://github.com/user-attachments/assets/15f3aa79-e7ab-4f60-81c3-40bb8d8cc0d5)
+
