@@ -70,7 +70,6 @@ Salary by Role Type Table
 
 ![sal by role type](https://github.com/user-attachments/assets/2402dc02-5543-49e0-a3b3-d202962debeb)
 
-![last](https://github.com/user-attachments/assets/1c17956d-8aab-4d35-9e91-51cfbac03b2b)
 
 Salary by State Table
 
