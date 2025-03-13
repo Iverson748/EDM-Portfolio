@@ -73,11 +73,12 @@ Salary by Role Type Table
 
 Salary by State Table
 
-![1000018455](https://github.com/user-attachments/assets/b2e9b071-3c9e-492f-b4ba-7acfac4ccbb5)
+![Sal by size](https://github.com/user-attachments/assets/c6f65fd4-569b-4ae8-b039-1bae34dc3976)
+
 
 States Mapping Table
 
-![1000018456 (2)](https://github.com/user-attachments/assets/5a68f6ee-1dac-4c34-bed4-ae12736d6417)
+![state 1 1](https://github.com/user-attachments/assets/0399668f-702b-4c20-b211-8c2061f7fe20)
 
 ## Step 3 - Query Dependencies
 After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
@@ -85,7 +86,7 @@ Double check whether they are properly linked appropriately.
 
 Photo of Query Dependencies
 
-![str](https://github.com/user-attachments/assets/d579ebf0-3e79-4a40-a94b-29fbb5cde680)
+![last](https://github.com/user-attachments/assets/7a256abd-8ebe-4dda-8012-650acd1d353f)
 
 
 
