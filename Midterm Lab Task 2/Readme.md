@@ -46,7 +46,7 @@ Cleaned Photo 3
 ## Step 2 - Reshaping and Grouping the Tables
 Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
 
-Select appropriate columns (Role Type, Size, Min Sal, Max Sal).
+Select appropriate columns 
 
 Change the columns to required data types (Currency).
 
@@ -81,8 +81,8 @@ States Mapping Table
 ![state 1 1](https://github.com/user-attachments/assets/0399668f-702b-4c20-b211-8c2061f7fe20)
 
 ## Step 3 - Query Dependencies
-After all the previous steps, check the Query Dependencies in PowerQuery by going to view and selecting the Query Dependencies.
-Double check whether they are properly linked appropriately.
+ View and selecting the Query Dependencies.
+Double check if they are properly linked appropriately.
 
 Photo of Query Dependencies
 
