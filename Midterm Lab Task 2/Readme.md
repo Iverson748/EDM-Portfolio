@@ -6,11 +6,11 @@ Add the required columns (Min Sal, Max Sal, Role Type).
 
 Split the columns (Salary Estimate, Location, Size).
 
-Change the columns to appropriate data types (Currency, Text).
+Change the columns to appropriate data types.
 
-Filter columns (Competitors, Revenue, Industry to remove negative values).
+Filter columns .
 
-Remove unnecessary columns to avoid redundancy (Company Name ratings, extra descriptions).
+Remove unnecessary columns to avoid redundancy .
 
 Save the M Language to a notepad.
 
@@ -42,6 +42,12 @@ Cleaned Photo 2
 Cleaned Photo 3
 
 ![cleaned2 3lst](https://github.com/user-attachments/assets/30a6d45b-df44-480a-a0d8-dc1c3ef78b56)
+
+
+M Language
+
+![m la](https://github.com/user-attachments/assets/cec57896-3bd2-4299-939a-2b6933742b9e)
+
 
 ## Step 2 - Reshaping and Grouping the Tables
 Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
