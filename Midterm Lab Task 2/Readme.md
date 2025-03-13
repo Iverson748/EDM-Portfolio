@@ -22,7 +22,7 @@ Uncleaned Photo 1
  
 ![Image](https://github.com/user-attachments/assets/e1ebc394-b25a-46be-bf46-ccad1cd37afa)
 
-Uncleaed Photo 3
+Uncleaned Photo 3
 
 ![unc3](https://github.com/user-attachments/assets/15f3aa79-e7ab-4f60-81c3-40bb8d8cc0d5)
 
@@ -30,11 +30,18 @@ Uncleaed Photo 3
 
 Cleaned Photo  1
 
-![clean](https://github.com/user-attachments/assets/e8aff98e-d8ff-4ec7-93cc-ffc5c5913258)
+![clean1 1](https://github.com/user-attachments/assets/0e306f12-0318-437f-833a-998a537d3680)
+
+
 
 Cleaned Photo 2
 
-![clean 2](https://github.com/user-attachments/assets/7f7b4109-cc5f-4269-82cf-ea8be9fe307a)
+![clean2 2](https://github.com/user-attachments/assets/18cfbbc2-6cad-4577-b21b-5b4f679c0492)
+
+
+Cleaned Photo 3
+
+![cleaned2 3lst](https://github.com/user-attachments/assets/30a6d45b-df44-480a-a0d8-dc1c3ef78b56)
 
 ## Step 2 - Reshaping and Grouping the Tables
 Duplicate and reference Unclean DS Jobs to create new queries (Sal By Role Type dup, Sal By Role Size ref, Sal By State ref).
@@ -56,9 +63,12 @@ Check and review Query Dependencies.
 ## Grouped of Tables
 Salary by Size Role Type Table
 
-![size](https://github.com/user-attachments/assets/a4952169-1d3a-41cf-a087-d915bda4e9d2)
+![sal by role size](https://github.com/user-attachments/assets/7e5813d2-40ec-4d18-affb-e955141ed0cb)
+
 
 Salary by Role Type Table
+
+![sal by role type](https://github.com/user-attachments/assets/2402dc02-5543-49e0-a3b3-d202962debeb)
 
 ![last](https://github.com/user-attachments/assets/1c17956d-8aab-4d35-9e91-51cfbac03b2b)
 
