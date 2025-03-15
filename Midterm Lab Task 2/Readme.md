@@ -69,30 +69,32 @@ Check and review Query Dependencies.
 ## Grouped of Tables
 Salary by Size Role Type Table
 
-![sal by role size](https://github.com/user-attachments/assets/7e5813d2-40ec-4d18-affb-e955141ed0cb)
 
+![role size](https://github.com/user-attachments/assets/08b04a29-c82c-4960-99ac-3cfaac99721b)
 
 Salary by Role Type Table
 
-![sal by role type](https://github.com/user-attachments/assets/2402dc02-5543-49e0-a3b3-d202962debeb)
+
+![role type](https://github.com/user-attachments/assets/d2a530bb-4cd1-4e5c-bfe1-608d22e34cc8)
 
 
 Salary by State Table
 
-![Sal by size](https://github.com/user-attachments/assets/c6f65fd4-569b-4ae8-b039-1bae34dc3976)
+![sal by states](https://github.com/user-attachments/assets/d1298da2-d48d-4b6d-a828-5259425c3e34)
+
 
 
 States Mapping Table
 
-![state 1 1](https://github.com/user-attachments/assets/0399668f-702b-4c20-b211-8c2061f7fe20)
+![states](https://github.com/user-attachments/assets/d837f248-7887-4e4a-970e-0d2111794871)
 
-## Step 3 - Query Dependencies
+
  View and selecting the Query Dependencies.
 Double check if they are properly linked appropriately.
 
 Photo of Query Dependencies
+![Depencies](https://github.com/user-attachments/assets/6f226dfb-c995-4066-9a03-3004db22ac1c)
 
-![last](https://github.com/user-attachments/assets/7a256abd-8ebe-4dda-8012-650acd1d353f)
 
 
 
