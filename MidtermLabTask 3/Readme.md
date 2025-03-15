@@ -28,7 +28,8 @@ Insert Map (Optional).
 ![tres (1)](https://github.com/user-attachments/assets/f8fba9bb-cbda-4148-ab9d-cf80b5dccdc0)
 
 ## Dashboard
-https://1drv.ms/i/c/3590a2dfcf97e27b/Eciod6LgWJBFrj1hJA8SUQEBdQZ1ga_y56obR1FzyIHsYQ?e=Edt75Q
+![dashboard](https://github.com/user-attachments/assets/bc3877ca-be1d-454f-91b8-6f9336ad337a)
+
 
 
 
