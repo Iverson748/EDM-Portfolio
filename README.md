@@ -11,6 +11,5 @@ Hi my name is Iverson Quiambao,20 yrsold from AngelesCity, first year college ta
 ## My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using excel](Midterm%20Lab%20Task%201/Readme.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](Midterm%20Lab%20Task%202/Readme.md)
-
-
+- Midterm Lab Task 3:  (Midterm%20Lab%20Task%203/Readme.md )
 
