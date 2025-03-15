@@ -18,4 +18,5 @@ Use appropriate visualizations for reports
 Insert Slicers for: Role Type, Company Size, State
 Insert Map (Optional).
 Salary by Role
-https://1drv.ms/i/c/3590a2dfcf97e27b/EbMRXUn--zFImb3EO6mhKxgB-0d57a6_cC1_KqSA_VMEGg?e=lLeV7x
+![role](https://github.com/user-attachments/assets/416b9b77-acaa-42dd-a574-edb8aea6e8a8)
+
