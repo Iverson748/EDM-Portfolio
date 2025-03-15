@@ -22,5 +22,8 @@ Insert Map (Optional).
 ![role](https://github.com/user-attachments/assets/416b9b77-acaa-42dd-a574-edb8aea6e8a8)
 
 ## Salary by Size
-https://1drv.ms/i/c/3590a2dfcf97e27b/Ea_Fj4ax7ChNirrxVtCCYGwBsX89EdpmyOkUjRftYCliPw?e=ZZiy5n
+![dos](https://github.com/user-attachments/assets/f0b4fba7-b282-466e-bf35-9bb4145b5baa)
+
+## Salary by State
+https://1drv.ms/i/c/3590a2dfcf97e27b/EVycFjuYSYBFkTMpkzUCPVwBsTKdOtnjjP7HPRfvlliLpg?e=YwylMM
 
