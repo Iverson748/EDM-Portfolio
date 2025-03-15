@@ -25,4 +25,10 @@ Insert Map (Optional).
 ![dos](https://github.com/user-attachments/assets/f0b4fba7-b282-466e-bf35-9bb4145b5baa)
 
 ## Salary by State
-https://1drv.ms/i/c/3590a2dfcf97e27b/EVycFjuYSYBFkTMpkzUCPVwBsTKdOtnjjP7HPRfvlliLpg?e=YwylMM
+![tres (1)](https://github.com/user-attachments/assets/f8fba9bb-cbda-4148-ab9d-cf80b5dccdc0)
+
+## Dashboard
+https://1drv.ms/i/c/3590a2dfcf97e27b/Eciod6LgWJBFrj1hJA8SUQEBdQZ1ga_y56obR1FzyIHsYQ?e=Edt75Q
+
+
+
