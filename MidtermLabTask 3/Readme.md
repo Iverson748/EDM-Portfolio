@@ -17,6 +17,10 @@ Create Necessary Pivot Tables & Charts
 Use appropriate visualizations for reports
 Insert Slicers for: Role Type, Company Size, State
 Insert Map (Optional).
-Salary by Role
+
+## Salary by Role
 ![role](https://github.com/user-attachments/assets/416b9b77-acaa-42dd-a574-edb8aea6e8a8)
+
+## Salary by Size
+https://1drv.ms/i/c/3590a2dfcf97e27b/Ea_Fj4ax7ChNirrxVtCCYGwBsX89EdpmyOkUjRftYCliPw?e=ZZiy5n
 
