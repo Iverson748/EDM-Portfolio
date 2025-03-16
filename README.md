@@ -1,7 +1,7 @@
 # EDM-Portfolio
 This is my Report in edm which is the step by step process and images of the output.
 ## About Me
-Hi my name is Iverson Quiambao,20 yrsold from Angeles City, first year college taking BSIS program
+Hi my name is Iverson Quiambao,20 years old from Angeles City, first year college taking BSIS program.
 ## Education:
 - College: City College of Angeles (BSIS)
 - High School: Angeles City National Trade School
