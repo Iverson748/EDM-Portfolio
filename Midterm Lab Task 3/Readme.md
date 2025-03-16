@@ -29,3 +29,6 @@ Insert Map (Optional).
 
 ## Dashboard
 ![dashboard](https://github.com/user-attachments/assets/bc3877ca-be1d-454f-91b8-6f9336ad337a)
+
+## Map
+![1000018837 (1)](https://github.com/user-attachments/assets/17225893-e331-4c0a-8db9-a81c66c83c17)
