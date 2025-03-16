@@ -31,4 +31,5 @@ Insert Map (Optional).
 ![dashboard](https://github.com/user-attachments/assets/bc3877ca-be1d-454f-91b8-6f9336ad337a)
 
 ## Map
-![1000018837 (1)](https://github.com/user-attachments/assets/17225893-e331-4c0a-8db9-a81c66c83c17)
+![1000018937 (1)](https://github.com/user-attachments/assets/68bcce46-a230-444e-9764-30a577c641b1)
+
