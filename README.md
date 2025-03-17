@@ -1,7 +1,7 @@
 ![Ive](https://github.com/user-attachments/assets/b02fae58-fc8f-4d19-bc32-d160e961d3c2)
 
 # EDM-Portfolio
-This is my report in edm which is the step by step process and images of the output.
+This is my teport in edm which is the step by step process and images of the output.
 ## About Me
 Hi my name is Iverson Quiambao,20 years old from Angeles City, first year college taking BSIS program.
 ## Education:
