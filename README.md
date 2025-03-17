@@ -11,4 +11,4 @@ Hi my name is Iverson Quiambao,20 years old from Angeles City, first year colleg
 ## My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using excel](https://iverson748.github.io/Midterm-Lab-Task-1/)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://iverson748.github.io/Midterm-Lab-Task-2/)
-- Midterm Lab Task 3:[Creating Pivot Table and Dashboard](https://github.com/Iverson748/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/Readme.md)
+- Midterm Lab Task 3:[Creating Pivot Table and Dashboard](https://iverson748.github.io/Midterm-Lab-Task-3/)
