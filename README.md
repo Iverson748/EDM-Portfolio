@@ -8,6 +8,7 @@ Hi my name is Iverson Quiambao,20 years old from Angeles City, first year colleg
 - College: City College of Angeles (BSIS)
 - High School: Angeles City National Trade School
 - Elementary: Sto Rosario Elementary School
+
 ## My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using excel](https://iverson748.github.io/Midterm-Lab-Task-1/)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://iverson748.github.io/Midterm-Lab-Task-2/)
