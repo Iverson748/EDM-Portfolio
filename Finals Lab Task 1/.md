@@ -42,7 +42,7 @@ employee_id: Integer, foreign key referencing employee_id in employees.
 ## Managers Table
 ![managerstate](https://github.com/user-attachments/assets/cd6e2475-88ed-4581-b392-17a729e185c0)
 
-## Table Structure
+## Table Structures
 
 ## Employee Table
 ![employeestruc](https://github.com/user-attachments/assets/8f42bb94-8d2d-4cf4-ac87-01914cfd6952)
