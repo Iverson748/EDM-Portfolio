@@ -44,7 +44,7 @@ Product 10: "Speakers", 9.99
 ![select formwholenumstruc](https://github.com/user-attachments/assets/1070fe46-9b25-42aa-a674-ab753024f33f)
 
 ## ER Diagram
-![erd3 jpg](https://github.com/user-attachments/assets/7186c8d2-6376-4fd5-8f91-40aab658e1e9)
+![erd3 jpg](https://github.com/user-attachments/assets/9a04e1ea-ddd6-438b-8d27-2000820bdc52)
 
 
 
