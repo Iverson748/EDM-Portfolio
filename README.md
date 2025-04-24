@@ -14,6 +14,7 @@ Hi my name is Iverson Quiambao,20 years old from Angeles City, first year colleg
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://iverson748.github.io/Midterm-Lab-Task-2/)
 - Midterm Lab Task 3:[Creating Pivot Table and Dashboard](https://iverson748.github.io/Midterm-Lab-Task-3/)
 
-- Finals Lab Task 1:[My SQL  Basics](https://iverson748.github.io/Finals-Lab-Task-1/)
+- Finals Lab kTask 1:[My SQL  Basics](https://iverson748.github.io/Finals-Lab-Task-1/)
 - Finals Lab Task 2:[Transforming ER Model to Relational Tables](https://iverson748.github.io/Finals-Lab-Task-2/)
 - Finals Lab 3:[Table Manipulation](https://iverson748.github.io/Finals-Lab-Task-3/)
+- Finals Lab Task 3:[Using MYSQL CLAUSE]()
