@@ -1,6 +1,5 @@
 ## Finals Task 5.
-                                   Using SQL views and Stored Procedures 
-                                      and Stored Functions
+                                   
 Instructions: 
 
 1. To have an idea of how SQL views work, kindly read the lecture on SQL views and stored procedures, then you may try the following examples in MySQL Workbench: 
